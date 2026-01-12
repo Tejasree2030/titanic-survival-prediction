@@ -1,4 +1,3 @@
-# titanic-survival-prediction
 # Titanic Survival Prediction – Machine Learning Project
 
 This project was developed during my Machine Learning Internship at **Verzeo** (June to July 2022). The objective was to analyze the Titanic passenger dataset and build a predictive model that determines the likelihood of passenger survival based on demographic and socio-economic features.
